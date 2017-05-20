@@ -5,10 +5,16 @@
     <entry>
       <title><![CDATA[这是一篇测试日志]]></title>
       <url>/2017/05/20/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E6%97%A5%E5%BF%97/</url>
-      <content type="html"><![CDATA[<p>##这是一个标题</p>
-<p>这是一个正文</p>
+      <content type="html"><![CDATA[<p>##这是一个标题##<br>*这个是一个</p>
+<p><em>这是一个正文<br>[</em>] 已选择<br>[ ] 未选择</p>
 ]]></content>
       
+        
+        <tags>
+            
+            <tag> 日志，标签 </tag>
+            
+        </tags>
         
     </entry>
     

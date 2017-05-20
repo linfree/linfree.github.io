@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-20T12:09:51.859Z</updated>
+  <updated>2017-05-20T12:19:44.347Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,20 +20,22 @@
     <link href="http://yoursite.com/2017/05/20/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E6%97%A5%E5%BF%97/"/>
     <id>http://yoursite.com/2017/05/20/这是一篇测试日志/</id>
     <published>2017-05-20T12:07:31.000Z</published>
-    <updated>2017-05-20T12:09:51.859Z</updated>
+    <updated>2017-05-20T12:19:44.347Z</updated>
     
-    <content type="html"><![CDATA[<p>##这是一个标题</p>
-<p>这是一个正文</p>
+    <content type="html"><![CDATA[<p>##这是一个标题##<br>*这个是一个</p>
+<p><em>这是一个正文<br>[</em>] 已选择<br>[ ] 未选择</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;##这是一个标题&lt;/p&gt;
-&lt;p&gt;这是一个正文&lt;/p&gt;
+      &lt;p&gt;##这是一个标题##&lt;br&gt;*这个是一个&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;这是一个正文&lt;br&gt;[&lt;/em&gt;] 已选择&lt;br&gt;[ ] 未选择&lt;/p&gt;
 
     
     </summary>
     
+    
+      <category term="日志，标签" scheme="http://yoursite.com/tags/%E6%97%A5%E5%BF%97%EF%BC%8C%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
