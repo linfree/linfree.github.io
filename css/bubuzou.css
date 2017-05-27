@@ -186,12 +186,12 @@ td,th {
 
 ::-moz-selection {
     color: #FFFFFF;
-    background-color: #42b983
+    background-color: #33CCCC
 }
 
 ::selection {
     color: #FFFFFF;
-    background-color: #42b983
+    background-color: #33CCCC
 }
 
 html,body {
@@ -269,7 +269,7 @@ table tbody td {
 }
 
 header {
-    background: #41b883;
+    background: #01AEF0;
     position: fixed;
     width: 100%;
     top: 0;
@@ -277,7 +277,7 @@ header {
 }
 .header {
     margin: 0 auto;
-    height: 60px;
+    height: 64px;
 }
 header .logo-link {
     float: left
@@ -355,7 +355,7 @@ header .nav-list-item .active {
     list-style: initial
 }
 .home.post-list .read-more {
-    color: #42b983
+    color: #33CCCC
 }
 .archive {
     max-width: 500px;
@@ -371,7 +371,7 @@ header .nav-list-item .active {
 }
 .archive .post-title-link {
     display: block;
-    color: #41b883;
+    color: #01AEF0;
     word-break: break-all;
 }
 .archive .post-title-link:hover {
@@ -394,13 +394,13 @@ header .nav-list-item .active {
 }
 .post .post-block .post-title {
     font-size: 20px;
-    color: #41b883;
+    color: #01AEF0;
 }
 .post-block .post-title a {
     color: #333;
 }
 .post-block .post-title a:hover {
-    color: #41b883;
+    color: #01AEF0;
 }
 .post-block .post-info {
     color: #7f8c8d;
@@ -422,7 +422,7 @@ header .nav-list-item .active {
     background-color: #E36B6B;
 }
 .post-block .post-info .post-demo {
-    background-color: #41b883;
+    background-color: #01AEF0;
 }
 .post-content h2,.post-content h3,.post-content h4,.post-content h5,.post-content h6 {
     position: relative;
@@ -439,7 +439,7 @@ header .nav-list-item .active {
     font-size: 16px
 }
 .post-content a {
-    color: #42b983;
+    color: #33CCCC;
     word-break: break-all
 }
 .post-content .tip {
@@ -469,7 +469,7 @@ header .nav-list-item .active {
 }
 .post-content blockquote {
     padding-left: 20px;
-    border-left: 6px solid #42b983;
+    border-left: 6px solid #33CCCC;
     background-color: #f8f8f8;
     padding: 8px 10px 8px 15px;
     margin-left: 0;
@@ -675,7 +675,7 @@ pre .tag,pre .tag .title,pre .change,pre .winutils,pre .flow,pre .lisp .title,pr
 }
 
 pre .symbol,pre .symbol .string,pre .value,pre .regexp {
-    color: #42b983
+    color: #33CCCC
 }
 
 pre .title {
@@ -683,7 +683,7 @@ pre .title {
 }
 
 pre .tag .value,pre .string,pre .subst,pre .haskell .type,pre .preprocessor,pre .ruby .class .parent,pre .built_in,pre .sql .aggregate,pre .django .template_tag,pre .django .variable,pre .smalltalk .class,pre .javadoc,pre .django .filter .argument,pre .smalltalk .localvars,pre .smalltalk .array,pre .attr_selector,pre .pseudo,pre .addition,pre .stream,pre .envvar,pre .apache .tag,pre .apache .cbracket,pre .tex .command,pre .prompt {
-    color: #42b983
+    color: #33CCCC
 }
 
 pre .comment,pre .java .annotation,pre .python .decorator,pre .template_comment,pre .pi,pre .doctype,pre .shebang,pre .apache .sqbracket,pre .tex .formula {
@@ -799,7 +799,7 @@ footer .copyright a:hover {
     font-family: Source Code Pro,Monaco,Menlo,Consolas,monospace;
 }
 .tags a:hover {
-    background: #41b883;
+    background: #01AEF0;
     color: #fff;
 }
 .search {
@@ -893,7 +893,7 @@ footer .copyright a:hover {
     padding: 0;
 }
 .search-result-list a {
-    color: #41b883;
+    color: #01AEF0;
     position: relative;
 }
 .search-result li a:before {
@@ -902,7 +902,7 @@ footer .copyright a:hover {
     width: 6px;
     height: 6px;
     border-radius: 6px;
-    background: #41b883;
+    background: #01AEF0;
     position: absolute;
     left: -12px;
     top: 6px;
@@ -949,7 +949,7 @@ footer .copyright a:hover {
     margin-bottom: 30px;
 }
 .widget h4 {
-    color: #41b883;
+    color: #01AEF0;
     margin: 10px 0;
     font-family: '微软雅黑';
 }
@@ -957,7 +957,7 @@ footer .copyright a:hover {
     color: #333;
 }
 .widget a:hover {
-    color: #41b883; 
+    color: #01AEF0; 
 } 
 .widget .category-list-count {
     font-size: 14px;
@@ -1059,7 +1059,7 @@ footer .copyright a:hover {
     display: block;
 }
 .arCatalog-list dd.on a {
-    color: #41b883;
+    color: #01AEF0;
 }
 .arCatalog-list .arCatalog-tack1 .arCatalog-index {
     color: #bbb;
@@ -1183,7 +1183,7 @@ footer .copyright a:hover {
         text-align: center;
     }
     header .nav-list-item a {
-        color: #41b883;
+        color: #01AEF0;
     }
     .footer-con {
         width: 100%;
