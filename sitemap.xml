@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2017/05/20/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E6%97%A5%E5%BF%97/</loc>
+    <loc>http://blog.fbi.st/2017/05/31/test-blog/</loc>
     
-    <lastmod>2017-05-20T12:48:15.702Z</lastmod>
+    <lastmod>2017-05-31T13:57:43.154Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/05/19/hello-world/</loc>
+    <loc>http://blog.fbi.st/2017/05/20/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E6%97%A5%E5%BF%97/</loc>
     
-    <lastmod>2017-05-20T12:17:26.718Z</lastmod>
+    <lastmod>2017-05-31T13:53:32.904Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.fbi.st/2017/05/19/hello-world/</loc>
+    
+    <lastmod>2017-05-31T13:50:23.649Z</lastmod>
     
   </url>
   

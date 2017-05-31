@@ -3,6 +3,29 @@
   
     
     <entry>
+      <title><![CDATA[test blog!]]></title>
+      <url>/2017/05/31/test-blog/</url>
+      <content type="html"><![CDATA[<p>##这个文章是测试的<br>是否有内容呢？？</p>
+]]></content>
+      
+        <categories>
+            
+            <category> css </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> blog </tag>
+            
+            <tag> test </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[这是一篇测试日志]]></title>
       <url>/2017/05/20/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E6%97%A5%E5%BF%97/</url>
       <content type="html"><![CDATA[<h2 id="这是一个标题"><a href="#这是一个标题" class="headerlink" title="这是一个标题"></a>这是一个标题</h2><ul>
@@ -16,7 +39,11 @@
         
         <tags>
             
-            <tag> 日志 标签 标题 </tag>
+            <tag> 日志 </tag>
+            
+            <tag> 标签 </tag>
+            
+            <tag> 标题 </tag>
             
         </tags>
         
