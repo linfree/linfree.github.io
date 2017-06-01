@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.fbi.st/"/>
-  <updated>2017-06-01T14:38:26.087Z</updated>
+  <updated>2017-06-01T15:02:07.772Z</updated>
   <id>http://blog.fbi.st/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这也是测试博文</title>
+    <link href="http://blog.fbi.st/2017/06/01/%E8%BF%99%E4%B9%9F%E6%98%AF%E6%B5%8B%E8%AF%95%E5%8D%9A%E6%96%87/"/>
+    <id>http://blog.fbi.st/2017/06/01/这也是测试博文/</id>
+    <published>2017-06-01T14:59:42.000Z</published>
+    <updated>2017-06-01T15:02:07.772Z</updated>
+    
+    <content type="html"><![CDATA[<p>sdadadadsdaaaaaaaaaaaaaaaaaaaaaaaaaa<br><a id="more"></a><br>dadsadjksajfkjdsakfjksadjfksdf</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;sdadadadsdaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;br&gt;
+    
+    </summary>
+    
+      <category term="live" scheme="http://blog.fbi.st/categories/live/"/>
+    
+    
+      <category term="博客" scheme="http://blog.fbi.st/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>test blog!</title>
