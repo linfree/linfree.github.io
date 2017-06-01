@@ -5,7 +5,7 @@
     <entry>
       <title><![CDATA[test blog!]]></title>
       <url>/2017/05/31/test-blog/</url>
-      <content type="html"><![CDATA[<p>##这个文章是测试的<br>是否有内容呢？？</p>
+      <content type="html"><![CDATA[<p>##这个文章是测试的<br>是否有内容呢？？<br>这里是内容的简介部分。。。<br><a id="more"></a><br>这下面的是简介里看不到的部分<br>呵呵呵呵呵呵呵呵</p>
 ]]></content>
       
         <categories>
