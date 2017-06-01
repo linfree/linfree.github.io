@@ -10,7 +10,7 @@
       
         <categories>
             
-            <category> css </category>
+            <category> live </category>
             
         </categories>
         
@@ -36,8 +36,16 @@
 </ul>
 ]]></content>
       
+        <categories>
+            
+            <category> film </category>
+            
+        </categories>
+        
         
         <tags>
+            
+            <tag> test </tag>
             
             <tag> 日志 </tag>
             

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.fbi.st/"/>
-  <updated>2017-06-01T13:24:31.228Z</updated>
+  <updated>2017-06-01T14:38:26.087Z</updated>
   <id>http://blog.fbi.st/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://blog.fbi.st/2017/05/31/test-blog/"/>
     <id>http://blog.fbi.st/2017/05/31/test-blog/</id>
     <published>2017-05-31T13:54:48.000Z</published>
-    <updated>2017-06-01T13:24:31.228Z</updated>
+    <updated>2017-06-01T14:38:26.087Z</updated>
     
     <content type="html"><![CDATA[<p>##这个文章是测试的<br>是否有内容呢？？<br>这里是内容的简介部分。。。<br><a id="more"></a><br>这下面的是简介里看不到的部分<br>呵呵呵呵呵呵呵呵</p>
 ]]></content>
@@ -31,7 +31,7 @@
     
     </summary>
     
-      <category term="css" scheme="http://blog.fbi.st/categories/css/"/>
+      <category term="live" scheme="http://blog.fbi.st/categories/live/"/>
     
     
       <category term="blog" scheme="http://blog.fbi.st/tags/blog/"/>
@@ -45,7 +45,7 @@
     <link href="http://blog.fbi.st/2017/05/20/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E6%97%A5%E5%BF%97/"/>
     <id>http://blog.fbi.st/2017/05/20/这是一篇测试日志/</id>
     <published>2017-05-20T12:07:31.000Z</published>
-    <updated>2017-05-31T13:53:32.904Z</updated>
+    <updated>2017-06-01T14:42:51.648Z</updated>
     
     <content type="html"><![CDATA[<h2 id="这是一个标题"><a href="#这是一个标题" class="headerlink" title="这是一个标题"></a>这是一个标题</h2><ul>
 <li><p>这个是一个</p>
@@ -64,6 +64,10 @@
     
     </summary>
     
+      <category term="film" scheme="http://blog.fbi.st/categories/film/"/>
+    
+    
+      <category term="test" scheme="http://blog.fbi.st/tags/test/"/>
     
       <category term="日志" scheme="http://blog.fbi.st/tags/%E6%97%A5%E5%BF%97/"/>
     
