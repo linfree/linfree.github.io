@@ -1,26 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>静思地</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2017-05-19T13:42:11.993Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://blog.fbi.st/"/>
+  <updated>2017-06-01T15:02:07.772Z</updated>
+  <id>http://blog.fbi.st/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Lin Free</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>这也是测试博文</title>
+    <link href="http://blog.fbi.st/2017/06/01/%E8%BF%99%E4%B9%9F%E6%98%AF%E6%B5%8B%E8%AF%95%E5%8D%9A%E6%96%87/"/>
+    <id>http://blog.fbi.st/2017/06/01/这也是测试博文/</id>
+    <published>2017-06-01T14:59:42.000Z</published>
+    <updated>2017-06-01T15:02:07.772Z</updated>
+    
+    <content type="html"><![CDATA[<p>sdadadadsdaaaaaaaaaaaaaaaaaaaaaaaaaa<br><a id="more"></a><br>dadsadjksajfkjdsakfjksadjfksdf</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;sdadadadsdaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;br&gt;
+    
+    </summary>
+    
+      <category term="live" scheme="http://blog.fbi.st/categories/live/"/>
+    
+    
+      <category term="博客" scheme="http://blog.fbi.st/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test blog!</title>
+    <link href="http://blog.fbi.st/2017/05/31/test-blog/"/>
+    <id>http://blog.fbi.st/2017/05/31/test-blog/</id>
+    <published>2017-05-31T13:54:48.000Z</published>
+    <updated>2017-06-01T14:38:26.087Z</updated>
+    
+    <content type="html"><![CDATA[<p>##这个文章是测试的<br>是否有内容呢？？<br>这里是内容的简介部分。。。<br><a id="more"></a><br>这下面的是简介里看不到的部分<br>呵呵呵呵呵呵呵呵</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;##这个文章是测试的&lt;br&gt;是否有内容呢？？&lt;br&gt;这里是内容的简介部分。。。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="live" scheme="http://blog.fbi.st/categories/live/"/>
+    
+    
+      <category term="blog" scheme="http://blog.fbi.st/tags/blog/"/>
+    
+      <category term="test" scheme="http://blog.fbi.st/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>这是一篇测试日志</title>
+    <link href="http://blog.fbi.st/2017/05/20/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95%E6%97%A5%E5%BF%97/"/>
+    <id>http://blog.fbi.st/2017/05/20/这是一篇测试日志/</id>
+    <published>2017-05-20T12:07:31.000Z</published>
+    <updated>2017-06-01T14:42:51.648Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="这是一个标题"><a href="#这是一个标题" class="headerlink" title="这是一个标题"></a>这是一个标题</h2><ul>
+<li><p>这个是一个</p>
+</li>
+<li><p>这是一个正文<br>[*] 已选择<br>[] 未选择</p>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;这是一个标题&quot;&gt;&lt;a href=&quot;#这是一个标题&quot; class=&quot;headerlink&quot; title=&quot;这是一个标题&quot;&gt;&lt;/a&gt;这是一个标题&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;这个是一个&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;这是一个正文&lt;br&gt;[*] 已选择&lt;br&gt;[
+    
+    </summary>
+    
+      <category term="film" scheme="http://blog.fbi.st/categories/film/"/>
+    
+    
+      <category term="test" scheme="http://blog.fbi.st/tags/test/"/>
+    
+      <category term="日志" scheme="http://blog.fbi.st/tags/%E6%97%A5%E5%BF%97/"/>
+    
+      <category term="标签" scheme="http://blog.fbi.st/tags/%E6%A0%87%E7%AD%BE/"/>
+    
+      <category term="标题" scheme="http://blog.fbi.st/tags/%E6%A0%87%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/05/19/hello-world/"/>
-    <id>http://yoursite.com/2017/05/19/hello-world/</id>
+    <link href="http://blog.fbi.st/2017/05/19/hello-world/"/>
+    <id>http://blog.fbi.st/2017/05/19/hello-world/</id>
     <published>2017-05-19T13:42:11.982Z</published>
-    <updated>2017-05-19T13:42:11.993Z</updated>
+    <updated>2017-05-31T13:50:23.649Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>

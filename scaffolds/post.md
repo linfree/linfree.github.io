@@ -1,5 +1,13 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+comments: true
+keywords: 
+tags: 
+categories: 
+from: 
+demo: 
+
 ---
+
+<!--more-->
