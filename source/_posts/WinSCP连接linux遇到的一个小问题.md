@@ -2,8 +2,7 @@
 title: WinSCP连接linux遇到的一个小问题
 date: 2017-05-20 20:07:31
 tags:
-  - 工具使用
-  - winSCP
+  - 工具
   - Linux
 desc: WinSCP连接linux遇到的一个小问题
 keywords: linux

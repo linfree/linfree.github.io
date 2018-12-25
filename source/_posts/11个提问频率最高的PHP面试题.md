@@ -3,11 +3,10 @@ title: 11个提问频率最高的PHP面试题
 date: 2017-05-20 20:07:31
 tags:
   - php 
-  - 面试题
 desc: php常见的面试题11个，也是常用的方法。
-keywords: php
+keywords: php 面试题 
 categories:
-- film
+- PHP
 
 ---
 ### 问题：请用最简单的语言告诉我PHP是什么？

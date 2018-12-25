@@ -4,25 +4,22 @@ date: 2017-05-31 21:54:48
 tags: 
 - SSH
 - Linux
-- 网络
 desc: SSH 是目前较可靠，专为远程登录会话和其他网络服务提供安全性的协议
 keywords: ssh 网络传输 linux 加密
 categories:
   - linux
 ---
-** SSH(安全外壳协议) **为 Secure Shell 的缩写，由 IETF 的网络小组（Network Working Group）所制定；SSH 为建立在应用层和传输层基础上的安全协议。SSH 是目前较可靠，专为远程登录会话和其他网络服务提供安全性的协议。
-
-利用 SSH 协议可以有效防止远程管理过程中的信息泄露问题。SSH最初是UNIX系统上的一个程序，后来又迅速扩展到其他操作平台。SSH在正确使用时可弥补网络中的漏洞。
-
-SSH客户端适用于多种平台。几乎所有UNIX平台—包括HP-UX、Linux、AIX、Solaris、Digital UNIX、Irix，以及其他平台，都可运行SSH。[百度百科:SSH](http://baike.baidu.com/link?url=bLpvgua9x2XFAV3G_TT4nq53QUyS3U3-sjNLDLRGue7M1Qdkb9fuKKAmkGJoLo9Ljk-b06vVrw2pbT_Dn2-CCOmuXITP4pv6iFbv8IH6oKi)
+** SSH(安全外壳协议) **为 Secure Shell 的缩写，由 IETF 的网络小组（Network Working Group）所制定；SSH 为建立在应用层和传输层基础上的安全协议。SSH 是目前较可靠，专为远程登录会话和其他网络服务提供安全性的协议。     
+利用 SSH 协议可以有效防止远程管理过程中的信息泄露问题。SSH最初是UNIX系统上的一个程序，后来又迅速扩展到其他操作平台。SSH在正确使用时可弥补网络中的漏洞。  
+SSH客户端适用于多种平台。几乎所有UNIX平台—包括HP-UX、Linux、AIX、Solaris、Digital   UNIX、Irix，以及其他平台，都可运行SSH。[百度百科:SSH](https://0x9.me/xuSFD)
 <!--more-->
 
 SSH是每一台Linux电脑的标准配置。
 随着Linux设备从电脑逐渐扩展到手机、外设和家用电器，SSH的使用范围也越来越广。不仅程序员离不开它，很多普通用户也每天使用。
 SSH具备多种功能，可以用于很多场合。有些事情，没有它就是办不成。本文是我的学习笔记，总结和解释了SSH的常见用法，希望对大家有用。
-## **1.SSH是什么**
+## ** 1.SSH是什么 ** 
 简单说，SSH是一种网络协议，用于计算机之间的加密登录。
-如果一个用户从本地计算机，使用SSH协议登录另一台远程计算机，我们就可以认为，这种登录是安全的，即使被中途截获，密码也不会泄露。
+如果一个用户从本地计算机，使用SSH协议登录另一台远程计算机，我们就可以认为，这种登录是安全的，即使被中途截获，密码也不会泄露。  
 ## **二、最基本的用法**
 SSH主要用于远程登录。假定你要以用户名user，登录远程主机host，只要一条简单命令就可以了。
 ```
@@ -116,7 +113,7 @@ AuthorizedKeysFile .ssh/authorized_keys
 远程主机将用户的公钥，保存在登录后的用户主目录的``$HOME/.ssh/authorized_keys``文件中。
 公钥就是一段字符串，只要把它追加在``authorized_keys``文件的末尾就行了。
 
-这里不使用上面的``ssh-copy-id``命令，改用下面的命令，解释公钥的保存过程：
+这里不使用上面的``ssh-copy-id``命令，改用下面的命令，解释公钥的保存过程：
 
 ```$ ssh user@host 'mkdir -p .ssh && cat >> .ssh/authorized_keys' < ~/.ssh/id_rsa.pub
 ```
