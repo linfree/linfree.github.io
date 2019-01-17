@@ -1,2 +1,5 @@
 _cache
 _site
+.deploy_git
+.git
+.npmignore
