@@ -1,12 +1,8 @@
 ---
 title: 基本的shell操作HBase
-date: 2017-05-20 20:07:31
+date: 2018-05-20 22:13:01
 tags:
-  - HBase
   - Hadoop
-  - 大数据
-  - shell
-  - 数据库
 desc: 基本的shell操作HBase
 keywords: HBase Hadoop 大数据 数据库 
 categories:
@@ -14,7 +10,11 @@ categories:
 
 ---
 ## **1.进入hbase shell console**
-> ```$HBASE_HOME/bin/hbase shell```如果有kerberos认证，需要事先使用相应的keytab进行一下认证（使用kinit命令），认证成功之后再使用hbase shell进入可以使用``whoami``命令可查看当前用户
+
+> ```$HBASE_HOME/bin/hbase shell```
+> 如果有kerberos认证，需要事先使用相应的keytab进行一下认证（使用kinit命令），
+> 认证成功之后再使用hbase shell进入可以使用``whoami``命令可查看当前用户
+
 ```
 hbase(main) > whoami
 ```

@@ -3,12 +3,10 @@ title: Hadoop+Hbase+ZooKeeper集群搭建方法
 date: 2017-05-20 20:07:31
 tags:
   - Hadoop
-  - HBase
-  - 大数据
 desc: Hadoop+Hbase+ZooKeeper集群搭建方法
 keywords: 环境搭建 hadoop hbase zookeeper 
 categories:
-- bigdata
+- 数据库
 
 ---
 [hadoop的下载地址](http://archive.apache.org/dist/hadoop/common/)

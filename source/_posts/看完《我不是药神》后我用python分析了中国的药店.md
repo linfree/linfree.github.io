@@ -1,12 +1,12 @@
 ---
-title: 用python分析了wh的药店
-date: 2017-10-20 20:13:31
+title: 看完《我不是药神》后我用python分析了武汉的药店
+date: 2018-10-20 20:13:31
 tags:
-  - Python 
+  - python 
 desc: python数据分析，武汉全部的药店数据
 keywords: 数据分析 python 药店  
 categories:
-- Python
+- python
 
 ---
 
@@ -23,6 +23,7 @@ categories:
 
 正好我最近刚开始学习python数据分析，于是，就决心以“超一线城市大武汉”为例，好好看看中国的药店到底多不多。  
 
+<!--more-->
 ## 数据获取
 
 ### 通过地图WebAPI  

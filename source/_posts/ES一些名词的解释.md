@@ -9,11 +9,15 @@ categories:
 - Elasticsearch非权威指南
 
 ---
+
+
 本来这个打算后面再来写的，看到简书上一个朋友归纳好了，我就直接借过来了。
 
 ## 数据层面：
 
 > **Index**：</span>Elasticsearch用来存储数据的逻辑区域，它类似于关系型数据库中的db概念。一个index可以在一个或者多个shard上面，同时一个shard也可能会有多个replicas。
+
+<!--more-->
 
 >** Document type**：为了查询需要，一个index可能会有多种类型document，也就是会有多个         document type，但需要注意，不同的document type里面同名的field一定要是相同类型的。
 

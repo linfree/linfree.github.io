@@ -3,3 +3,4 @@ _site
 .deploy_git
 .git
 .npmignore
+/node_modules/

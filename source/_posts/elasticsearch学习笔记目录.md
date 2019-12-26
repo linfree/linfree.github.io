@@ -12,8 +12,10 @@ categories:
 #[写在开始的话](http://www.jianshu.com/p/844892bd0dff)
 
 #[一、elasticsearch简介](http://www.jianshu.com/p/e8ee319a238d)
+
 ##[1、ES一些名词的解释](http://www.jianshu.com/p/4c56a271c5b8)
 
+<!--more-->
 #二、elasticsearch及各种组件的安装
 
 #三、es索引存储

@@ -13,6 +13,7 @@ categories:
 ## 一、elasticsearch是什么
 > ElasticSearch是一个基于[Lucene](http://baike.baidu.com/item/Lucene?sefr=enterbtn)的搜索服务器。它提供了一个分布式多用户能力的全文搜索引擎，基于RESTful web接口。Elasticsearch是用Java开发的，并作为Apache许可条款下的开放源码发布，是当前流行的企业级搜索引擎。设计用于[云计算](http://baike.baidu.com/view/1316082.htm)中，能够达到实时搜索，稳定，可靠，快速，安装使用方便。
 (百度百科)
+
 <!--more-->
 理解这段话简单理解就是：ES是一个搜索引擎，是基于Lucene的。它是一个提供了基于[RESTful](http://baike.baidu.com/item/RESTful?sefr=enterbtn) 的web接口，能够达到实时，稳定，可靠，快速的搜索引擎。
 

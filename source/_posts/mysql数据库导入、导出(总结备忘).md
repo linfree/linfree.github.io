@@ -1,10 +1,10 @@
 ---
-title: mysql 数据库导入/导出(总结备忘)
+title: mysql数据库导入/导出(总结备忘)
 date: 2017-05-20 20:07:31
 tags:
   - Mysql
   - 数据库
-desc: mysql 数据库导入/导出(总结备忘)
+desc: mysql数据库导入/导出(总结备忘)
 keywords: MySQL 数据库 数据库优化
 categories:
 - 数据库
@@ -16,6 +16,7 @@ categories:
 ## 1.phpmyadmin
 先来说说phpmyadmin 这个工具导出和导入很简单 而且导入时无需建库 直接还原成原来的数据库   用** source ** 
  也可以还原 但他导入文件时有大小限制不能超过20M
+
 <!--more-->
 再来说说 ** mysqldump **和 ** source **  用命令操作很快 但是想把导出的文件再导入时必须先建立一个数据库(这个库可以随便起名) 然后进入数据库后才能导入用phpmyadmin导入
 ** mysqldump **导出的文件也得需要这步
