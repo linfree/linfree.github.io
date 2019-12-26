@@ -6,7 +6,7 @@ tags:
 desc: 简述应用程序接口(API)
 keywords: PHP API 接口 
 categories:
-- PHP
+- php
 
 ---
 写下这个文章的原因是,我发现身边一些的朋友可能是因为之前没有接触过API,以至于对API有些不解和抵触.

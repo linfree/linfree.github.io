@@ -6,7 +6,7 @@ tags:
 desc: php常见的面试题11个，也是常用的方法。
 keywords: php 面试题 
 categories:
-- PHP
+- php
 
 ---
 ### 问题：请用最简单的语言告诉我PHP是什么？
