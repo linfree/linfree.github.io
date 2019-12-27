@@ -1,7 +1,7 @@
 ---
 title: SSH的原理和运用
 tags:
-  - Linux
+  - linux
 categories:
   - linux
 toc: false
